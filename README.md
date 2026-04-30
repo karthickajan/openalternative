@@ -779,6 +779,7 @@
 
 ### Code Analysis & Transformation
 
+- [CipherKit](https://openalternative.co/cipherkit) - Privacy-first, client-side developer utility suite `MIT` `⭐ 3`
 - [Grit](https://openalternative.co/grit) - Automated technical debt reduction for software teams `MIT` `⭐ 4.5K`
 - [Opengrep](https://openalternative.co/opengrep) - Open-source code security engine for developers `LGPL-2.1` `⭐ 2.5K`
 
